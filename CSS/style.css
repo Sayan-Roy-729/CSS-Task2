@@ -90,7 +90,7 @@
     
     border: 1px solid #ece4e4;
     border-radius: 5px;
-    padding: 20px;
+    
 }
 
 .container3-child1{
@@ -99,10 +99,23 @@
     width: 100%;
 }
 
+#evaluated-task{
+    background-color: white;
+    margin-top: 20px;
+}
+
 .container3-child1 h4{
-    padding: 20px;
+    
     
     color: #a6a9ae;
+}
+
+.padding-20px{
+    padding: 20px;
+}
+
+#container3-child2{
+    margin-top: 20px;
 }
 
 .container3-child1 h4 a{
@@ -115,7 +128,7 @@ font-family: arial, sans-serif;
 border-collapse: collapse;
 width: 90%;
 margin: auto;
-padding: 20px 0;
+
 
 }
 
@@ -124,6 +137,11 @@ border: 1px solid #e7e5e5;
 text-align: left;
 padding: 20px;
 text-align: center;
+}
+
+.container3-subclass{
+    background-color: #f7f7f7;
+    width: 100%;
 }
 
 .text-color{
