@@ -5,7 +5,7 @@ It is a clone of my CampusX dashboard page. Only HTML and CSS are used, no JavaS
 ### Image-1 (Image of Whole Page in One Image):
 ![alt text](https://github.com/Sayan-Roy-729/CSS-Task2/blob/master/image/4.png)
 
-### Image-2 (Image of the main Page that I colned in One Image):
+### Image-2 (Image of the main Page that I cloned in One Image):
 ![alt text](https://github.com/Sayan-Roy-729/CSS-Task2/blob/master/image/5.png)
 
 ### Image-3 (Image of upper part of the clone page)
