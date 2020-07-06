@@ -16,6 +16,11 @@
     
 }
 
+.navbar h2 a{
+    text-decoration: none;
+    color: white;
+}
+
 .container1{
     max-width: 85%;
     margin: auto;
@@ -29,10 +34,18 @@
     border: 2px solid #dc3545;
     border-radius: 15px;
     background-color: #dc3545;
-    color: white;
     padding: 3px 10px;
-
 }
+
+.container1 h3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.container1 h3:hover{
+    background-color: #cf0909;
+}
+
 
 .container h1{
     font-size: 40px;
@@ -92,6 +105,11 @@
     color: #a6a9ae;
 }
 
+.container3-child1 h4 a{
+    text-decoration: none;
+    color: #a6a9ae;
+}
+
 table {
 font-family: arial, sans-serif;
 border-collapse: collapse;
@@ -110,6 +128,17 @@ text-align: center;
 
 .text-color{
     color: #009b72;
+}
+
+.text-color1{
+    color: black;
+}
+
+tr td a{
+    text-decoration: none;
+    color: #009b72;
+    font-size: 14px;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .container4{
